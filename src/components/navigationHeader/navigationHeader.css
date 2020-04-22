@@ -1,0 +1,18 @@
+.navigation{
+    display: flex;
+    flex-direction: column;
+}
+
+.navLink{
+    margin-top:1rem;
+    min-height: 30px;
+    background-color:lightgrey;
+}
+
+.link{
+    margin-left: 1rem;
+}
+
+.isActive{
+    font-weight: bolder;
+}

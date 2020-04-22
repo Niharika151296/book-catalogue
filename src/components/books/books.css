@@ -1,0 +1,65 @@
+.listView{
+    height:10rem;
+    background-color: darkgray;
+    margin-top: 2rem;
+    margin-left: 1rem;
+    margin-right: 1rem;
+}
+
+.listImage{
+    height:8rem;
+    padding-left: 2rem;
+    padding-top: 1rem;
+}
+
+.c1{
+    width:33.3%;
+    float:left;
+}
+
+.c2{
+    width:33.3%;
+    margin-left: 33.3%;
+}
+.c3{
+    width: 33.3%;
+    float: right;
+    margin-top: -30px;
+}
+
+.listTitle{
+    padding-top: 3rem;
+}
+
+.cards{
+  
+        display: flex;
+        flex-wrap: wrap;
+        margin-left: 1rem;
+        margin-right: 1rem;
+     
+}
+
+.card{
+    height:17rem;
+     border: 2px solid red;
+     margin-left: 10px;
+     margin-top: 5px;
+     width: 14rem;
+
+}
+.activeUser{
+    background-color: lightgrey;
+}
+
+.cardImage{
+    height: 8rem;
+}
+
+.r1,.r3{
+    margin-top: 1rem;
+}
+
+.r1,.r2,.r3{
+   text-align: center;
+}
